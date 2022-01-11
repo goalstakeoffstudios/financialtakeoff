@@ -685,22 +685,22 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-s48MCQYojq {
+.cid-sUaTZyhMmC {
   background-color: #fcfcfc;
 }
-.cid-s48MCQYojq .mbr-section-title {
+.cid-sUaTZyhMmC .mbr-section-title {
   text-align: center;
-  color: #000000;
+  color: #ffffff;
 }
-.cid-s48MCQYojq .mbr-text,
-.cid-s48MCQYojq .mbr-section-btn {
+.cid-sUaTZyhMmC .mbr-text,
+.cid-sUaTZyhMmC .mbr-section-btn {
   color: #000000;
   text-align: center;
 }
 @media (max-width: 991px) {
-  .cid-s48MCQYojq .mbr-section-title,
-  .cid-s48MCQYojq .mbr-section-btn,
-  .cid-s48MCQYojq .mbr-text {
+  .cid-sUaTZyhMmC .mbr-section-title,
+  .cid-sUaTZyhMmC .mbr-section-btn,
+  .cid-sUaTZyhMmC .mbr-text {
     text-align: center;
   }
 }
